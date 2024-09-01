@@ -98,7 +98,7 @@ Discovering such companies at scale is no easy feat. My solution automates this 
 
 **Frontend Code:**
 
-[View the Code](#)
+[View the Code](https://github.com/Charchit2003/Glow-Radius/blob/main/index.jsx)
 
 ---
 
